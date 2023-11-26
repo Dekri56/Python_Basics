@@ -1,5 +1,7 @@
+# importing important library 
 import random
 
+# putting a loop as a case; if case is true it will continue
 while True: 
  choices = ["gun","water","snake"]
 
@@ -10,6 +12,7 @@ while True:
  while player not in choices:
     player = input("gun, water, or snake?: ").lower()
 
+# A tie scenario in between computer and human 
  if player == computer:
     print("computer: ",computer)
     print("player: ",player)
@@ -47,7 +50,7 @@ while True:
 
  play_again = input("Wanna have a rematch? (yes/no): ").lower()
 
- if play_again != "yes":
+ if play_again not in ["yes","y"]:
    break
 
 print("Bye!!!")
