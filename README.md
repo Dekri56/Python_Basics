@@ -23,5 +23,6 @@ Explore the latest headlines with ease using our News Explorer App! This Python 
 
 1. Top headlines from the News API.
 2. Read more feature to redirect users to the full news articles.
-3. Responsive and intuitive GUI for an enjoyable user experience.-
+3. Responsive and intuitive GUI for an enjoyable user experience.
 
+![image-1](https://github.com/devarshee-shah05/Python_Projects/assets/91781761/06c74ed4-ea78-450e-aaf0-cdfcb23b47c5)
