@@ -4,8 +4,6 @@
 **Project 1:**
 A simple Python implementation of the classic Snake Water Gun game. Users can input their choice, compete against the computer, and see who wins based on the game rules. The game loop allows for multiple rounds, providing a fun and interactive experience. Perfect for beginners looking to grasp Python concepts in a practical way.
 
-![image](image.png)
-
 **Project 2:**
 - COVID-19 Dataset Exploration
 
@@ -13,7 +11,17 @@ This repository contains a COVID-19 dataset sourced from Kaggle, meticulously ex
 
 - Dataset Overview:
 
-Source: Kaggle
-Features: Date, State, Region, Confirmed Cases, Deaths, Recovered
+1. Source: Kaggle
+2. Features: Date, State, Region, Confirmed Cases, Deaths, Recovered
 
+**Project 3:**
+- News Explorer App
+
+Explore the latest headlines with ease using our News Explorer App! This Python application, built with Tkinter for a user-friendly GUI, provides an enhanced reading experience. Users can seamlessly navigate through top news articles and enjoy a clean interface.
+
+- Features:
+
+1. Top headlines from the News API.
+2. Read more feature to redirect users to the full news articles.
+3. Responsive and intuitive GUI for an enjoyable user experience.-
 
