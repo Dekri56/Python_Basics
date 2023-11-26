@@ -1,10 +1,11 @@
 import random
+
 while True: 
  choices = ["gun","water","snake"]
 
- computer=random.choice(choices)
+ computer = random.choice(choices)
 
- player= None
+ player = None
 
  while player not in choices:
     player = input("gun, water, or snake?: ").lower()
