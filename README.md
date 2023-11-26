@@ -4,6 +4,8 @@
 **Project 1:**
 A simple Python implementation of the classic Snake Water Gun game. Users can input their choice, compete against the computer, and see who wins based on the game rules. The game loop allows for multiple rounds, providing a fun and interactive experience. Perfect for beginners looking to grasp Python concepts in a practical way.
 
+![image](https://github.com/devarshee-shah05/Python_Projects/assets/91781761/58ccdbe4-baf2-45fd-a762-c24ea64cded2)
+
 **Project 2:**
 - COVID-19 Dataset Exploration
 
